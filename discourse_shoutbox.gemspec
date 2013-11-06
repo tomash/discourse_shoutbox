@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = DiscourseShoutbox::VERSION
   spec.authors       = ["Tomasz Stachewicz"]
   spec.email         = ["tomekrs@o2.pl"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{A Shoutbox plugin for Discourse forum engine}
+  spec.summary       = %q{A Shoutbox plugin for Discourse forum engine}
+  spec.homepage      = "https://github.com/tomash/discourse_shoutbox"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)

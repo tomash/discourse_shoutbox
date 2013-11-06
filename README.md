@@ -1,6 +1,7 @@
-# DiscourseShoutbox
+# Discourse Shoutbox
 
-TODO: Write a gem description
+A plugin for [Discourse forum engine](http://www.discourse.org/ "Discourse site") for Shoutbox, i.e. a (quasi-)real-time chat for forum users, embedded on the forum page.
+
 
 ## Installation
 
@@ -8,17 +9,9 @@ Add this line to your application's Gemfile:
 
     gem 'discourse_shoutbox'
 
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install discourse_shoutbox
-
 ## Usage
 
-TODO: Write usage instructions here
+TODO: Write usage instructions here as soon as they're clear
 
 ## Contributing
 
