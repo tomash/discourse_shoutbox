@@ -1,0 +1,13 @@
+<div class="container">
+  <div id="shoutbox">
+    Hello, Shoutbox. Current shouts: {{shoutCount}}
+    {{#if loading}}
+      <div class='contents loading'>
+        <div class='spinner'>{{i18n loading}}</div>
+      </div>
+    {{/if}}
+
+    {{outlet shoutboxListView}}
+  </div>
+
+</div>
